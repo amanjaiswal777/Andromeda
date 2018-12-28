@@ -14,7 +14,9 @@ Let us calculate the Likelihood first :
           P(B|A)
 					Separate the tumour dataset as the malignant and benign (Here suppose the out of 100000 dataset 70000 is the training data and             suppose 34000 are the benign tumour and rest are the malignant).
 					
-					
+I am going to take the kaggle breast cancer dataset.
+
+
 					
 					
 
